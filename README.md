@@ -1,5 +1,6 @@
-FourSIGKDD-PaperSubmission-1618
-Primary code and datasets for the paper: Order Is All You Need for Categorical Data Clustering
-# datasets
-four demo datasets are located in Data folder, it comprise one pure ordinal dataset DS, one pure nominal dataset ZO and two mixture datasets BC and HR, respectively.
+performance.# datasets
+four demo datasets are located in the Data folder, it comprises one pure ordinal dataset DS, one pure nominal dataset ZO, and two mixture datasets BC and HR, respectively.
 
+# code information
+All codes are written in Matlab. The functionality of each section is as follows:
+The Metrics folder contains code for evaluating clustering performance. The
