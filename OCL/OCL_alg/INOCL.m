@@ -1,12 +1,10 @@
-% inner loop of OCL Algorithm
+% inner loop of OCL algorithm (i.e. clustering based on fixed order)
 function [LctRec,ModeMtx] = INOCL(X,ModeMtx,K,NumVal,LctRec)
 [Pm.Xlth,Pm.Xwd]=size(X); 
 Pm.k=K;
 Change=1; 
-Loop=0;
-while Change==1 && Loop<=50 % iteratively assign data objects to appropriate clusters until convergence
+while Change==1 % iteratively assign data objects to appropriate clusters until convergence
     Change=0;
-    Loop=Loop+1;
     for i=1:Pm.Xlth
         DistVec=zeros(Pm.k,1);
         for j=1:Pm.k
