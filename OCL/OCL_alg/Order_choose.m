@@ -1,4 +1,4 @@
-%% choose best order
+%% choose best order based on fixed partition
 function [Fi_order_list]=Order_choose(LctRecC,ModeMtx,NumVal,Pm,Val_list)
         Len_List=zeros(1,Pm.k);
         count_list=zeros(1,Pm.k);
