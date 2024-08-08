@@ -18,4 +18,4 @@ The `INOCL.m` file implements the inner loop function of the OCL algorithm. The 
 Finally, the `Execute_Clustering.m` file executes the entire OCL algorithm on the provided dataset."
 
 # How to run
-	Ensure that the OCL folder has been added to the execution path by right-clicking the folder, selecting `Add to Path', and then left-clicking `Selected Folders and Subfolders'. After this, run the Execute_Clustering.m file, and the results will be displayed in the command line window.
+	Ensure that the OCL folder has been added to the execution path by right-clicking the folder, selecting `Add to Path', and then left-clicking `Selected Folders and Subfolders'. After this, run the `Execute_Clustering.m` file, and the results will be displayed in the command line window.
