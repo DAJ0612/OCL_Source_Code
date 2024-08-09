@@ -19,4 +19,4 @@ Finally, the `Execute_Clustering.m` file executes the entire OCL algorithm on th
 
 # How to run
  - Ensure that the OCL folder has been added to the execution path by right-clicking the folder, selecting `Add to Path`, and then left-clicking `Selected Folders and Subfolders`.
- - After this, run the `Execute_Clustering.m` file, and the results will be displayed in the command line window.
+ - Run the `Execute_Clustering.m` file, and the results will be displayed in the command line window.
