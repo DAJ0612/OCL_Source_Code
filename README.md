@@ -15,7 +15,7 @@ The script information in the `OCL_alg` file is as follows:
 - The `initialization.m` and `order_initial.m` files initialize `Q` and `order`, respectively.
 - The `OCL_main.m` file is the main component of the OCL algorithm and executes the outer loop.
 - The `INOCL.m` file implements the inner loop function of the OCL algorithm.
-- The `Order_choose.m` file and the `Order_reset.m` file are responsible for estimating the order and modifying the order of the original dataset based on this estimate, respectively.
+- The `Order_choose.m` file and the `Order_reset.m` file are responsible for learning the order and modifying the order of the original dataset, respectively.
 
 Finally, the `Execute_Clustering.m` file executes the entire OCL algorithm on the provided dataset."
 
