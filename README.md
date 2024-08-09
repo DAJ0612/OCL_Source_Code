@@ -1,6 +1,4 @@
-# OCL
-Demo code and datasets for the paper: Order Is All You Need for Categorical Data Clustering
-
+is
 # Datasets
 Four demo datasets are in the `Data` folder i.e., VT, BC, AC, ZO. 
 
@@ -11,7 +9,7 @@ All code is written in Matlab 2022a. Each section serves the following purpose:
 - The `Metrics` folder contains code for evaluating clustering performance.
 - The `OCL_alg` folder details the code of the OCL algorithm.
 
-The script information in the `OCL_alg` file is as follows:
+The script information in the `OCL_alg` file are as follows:
 - The `initialization.m` and `order_initial.m` files initialize `Q` and `order`, respectively.
 - The `OCL_main.m` file is the main component of the OCL algorithm and executes the outer loop.
 - The `INOCL.m` file implements the inner loop function of the OCL algorithm.
