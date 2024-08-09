@@ -6,7 +6,7 @@ Four demo datasets are in the `Data` folder i.e., VT, BC, AC, ZO.
 
 # Code information
 
-All code is written in Matlab. Each section serves the following purpose:
+All code is written in Matlab 2022a. Each section serves the following purpose:
 
 - The `Metrics` folder contains code for evaluating clustering performance.
 - The `OCL_alg` folder details the code of the OCL algorithm.
