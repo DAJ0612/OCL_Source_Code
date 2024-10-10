@@ -1,7 +1,7 @@
 # OCL
 Code and datasets for the paper: Order Is All You Need for Categorical Data Clustering.
 # Datasets
-Eighteen datasets are in the `Data` folder.
+All eighteen datasets used in `Order Is All You Need for Categorical Data Clustering` can be found in `Data` folder, including three pure ordinal datasets, six pure nominal datasets, and nine mixed datasets.
 
 # Code information
 
