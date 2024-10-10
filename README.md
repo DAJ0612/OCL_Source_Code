@@ -1,7 +1,7 @@
 # OCL
-Demo code and datasets for the paper: Order Is All You Need for Categorical Data Clustering.
+Code and datasets for the paper: Order Is All You Need for Categorical Data Clustering.
 # Datasets
-Four demo datasets are in the `Data` folder i.e., VT, BC, AC, ZO. 
+Eighteen datasets are in the `Data` folder.
 
 # Code information
 
