@@ -1,5 +1,5 @@
 # Datasets
-All 12 datasets used in `Order Is All You Need for Categorical Data Clustering` can be found in  the `Data` folder, including two pure ordinal datasets, four pure nominal datasets, and six mixed datasets. Moreover, six supplementary datasets are included in the `Supp._data` folder, which contains one pure ordinal dataset, two pure nominal datasets, and three mixed datasets.
+All 12 datasets used in `Order Is All You Need for Categorical Data Clustering` can be found in  the `Data` folder, including two pure ordinal datasets, four pure nominal datasets, and six mixed datasets.  Additionally, six supplementary datasets are included in the `Supp._data` folder, which contains one pure ordinal dataset, two pure nominal datasets, and three mixed datasets.
 
 # Code information
 
