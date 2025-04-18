@@ -1,5 +1,5 @@
 # Datasets
-All 12 datasets used in `Interpretable Semantic Relationship Learning for Attributed Categorical Data Clustering` can be found in  the `Data` folder.  Additionally, six supplementary datasets are included in the `Supp_data` folder.
+All 12 datasets used in `Categorical Data Clustering via Value Order Estimated Distance Metric Learning` can be found in the `Data` folder.  Additionally, six supplementary datasets are included in the `Supp_data` folder.
 
 # Code information
 
